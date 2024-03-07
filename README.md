@@ -1,8 +1,14 @@
+# Libraries Used
+
+- axios (yarn add axios/ npm i axios)
+- json server (npm instal json-server /json-server --watch db.json)
+- 1. cd ios >> pod install >> cd .. === 2) yarn npx pod-install (if you add `scripts >> "pod": "npx pod-instal"` >> you can just write `yarn pod` >> there is no need to go `cd ios` etc)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
