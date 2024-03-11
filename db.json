@@ -28,7 +28,7 @@
   },
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
       "price": 549,
@@ -50,7 +50,7 @@
       "id": "2",
       "title": "iPhone X",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
+      "price": "755",
       "discountPercentage": 17.94,
       "rating": 4.44,
       "stock": 34,
@@ -75,7 +75,9 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"]
+      "images": [
+        "https://cdn.dummyjson.com/product-images/3/1.jpg"
+      ]
     },
     {
       "id": "4",
@@ -100,7 +102,7 @@
       "id": "5",
       "title": "Huawei P30",
       "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": "565",
+      "price": "659",
       "discountPercentage": 10.58,
       "rating": 4.09,
       "stock": 32,
@@ -504,12 +506,12 @@
     },
     {
       "id": "27",
-      "title": "Flying Wooden Bird",
+      "title": "Flying Wooden Birds",
       "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-      "price": 51,
+      "price": "55",
       "discountPercentage": 15.58,
       "rating": 4.41,
-      "stock": 17,
+      "stock": "30",
       "brand": "Flying Wooden",
       "category": "home-decoration",
       "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp",
@@ -576,7 +578,44 @@
         "https://cdn.dummyjson.com/product-images/30/3.jpg",
         "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
       ]
+    },
+    {
+      "id": "5b1d",
+      "title": "iPhone 12",
+      "description": "ABC",
+      "price": "780",
+      "discountPercentage": "3",
+      "rating": "4",
+      "stock": "50",
+      "brand": "Apple",
+      "category": "",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/2/1.jpg",
+        "https://cdn.dummyjson.com/product-images/2/2.jpg",
+        "https://cdn.dummyjson.com/product-images/2/3.jpg",
+        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+      ]
     }
   ],
-  "carts": []
+  "carts": [
+    {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": "755",
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/2/1.jpg",
+        "https://cdn.dummyjson.com/product-images/2/2.jpg",
+        "https://cdn.dummyjson.com/product-images/2/3.jpg",
+        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+      ]
+    }
+  ]
 }

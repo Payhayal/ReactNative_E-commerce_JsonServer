@@ -14,12 +14,12 @@ const AddProduct = () => {
     stock: 0,
     brand: '',
     category: '',
-    thumbnail: 'https://cdn.dummyjson.com/product-images/30/thumbnail.jpg',
+    thumbnail: 'https://cdn.dummyjson.com/product-images/2/thumbnail.jpg',
     images: [
-      'https://cdn.dummyjson.com/product-images/30/1.jpg',
-      'https://cdn.dummyjson.com/product-images/30/2.jpg',
-      'https://cdn.dummyjson.com/product-images/30/3.jpg',
-      'https://cdn.dummyjson.com/product-images/30/thumbnail.jpg',
+      'https://cdn.dummyjson.com/product-images/2/1.jpg',
+      'https://cdn.dummyjson.com/product-images/2/2.jpg',
+      'https://cdn.dummyjson.com/product-images/2/3.jpg',
+      'https://cdn.dummyjson.com/product-images/2/thumbnail.jpg',
     ],
   });
 

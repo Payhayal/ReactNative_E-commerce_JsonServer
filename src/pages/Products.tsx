@@ -78,4 +78,7 @@ const styles = StyleSheet.create({
     marginVertical: 10,
     alignItems: 'center',
   },
+  btn: {
+    borderRadius: 10,
+  },
 });

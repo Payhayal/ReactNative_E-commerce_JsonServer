@@ -1,8 +1,26 @@
 # Libraries Used
 
 - axios (yarn add axios/ npm i axios)
+
 - json server (npm instal json-server /json-server --watch db.json)
-- 1. cd ios >> pod install >> cd .. === 2) yarn npx pod-install (if you add `scripts >> "pod": "npx pod-instal"` >> you can just write `yarn pod` >> there is no need to go `cd ios` etc)
+
+# SCREEN GIF
+
+![](./src/assets/e-commerce.gif)
+
+# SCREEN VIEW
+
+![](./src/assets/1.png)
+
+![](./src/assets/2.png)
+
+![](./src/assets/3.png)
+
+![](./src/assets/4.png)
+
+![](./src/assets/5.png)
+
+![](./src/assets/6.png)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 

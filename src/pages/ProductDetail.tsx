@@ -102,7 +102,7 @@ const ProductDetail = () => {
       </Text>
       <Text style={styles.descriptionText}>{product?.description}</Text>
       <Text style={styles.price}>
-        $ {product?.price} %{product?.discountPercentage} off
+        ${product?.price} (%{product?.discountPercentage} off)
       </Text>
       <View>
         <FlatList
