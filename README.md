@@ -1,14 +1,14 @@
-## Libraries Used
+# Libraries Used
 
 - axios (yarn add axios/ npm i axios)
 
 - json server (npm instal json-server /json-server --watch db.json)
 
-## SCREEN GIF
+# Screen Gif
 
 ![](./src/assets/e-commerce.gif)
 
-## SCREEN VIEW
+# Screen View
 
 ![](./src/assets/1.png)
 
